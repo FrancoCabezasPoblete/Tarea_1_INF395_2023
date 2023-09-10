@@ -4,4 +4,4 @@ Integrantes:
 - Angelo Miranda - 201973126-2
 - Paulina Vega - 201973052-5
 
-Nota: En el Jupyter "Kaggle.ipynb" se configuro el entrenamiento de XGDBoost como los dataframes finales, pues es el que se entrego!
+Nota: En el Jupyter "Kaggle.ipynb" se configuro el entrenamiento de XGDBoost como los dataframes finales, pues es el que predijo en Kaggle!
